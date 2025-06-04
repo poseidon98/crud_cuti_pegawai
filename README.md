@@ -2,8 +2,10 @@
 2. composer install
 3. php artisan key:generate
 4. php artisan migrate
-5. php artisan serve
-6. aplikasi siap di operasikan
+5. npm install
+6. npm run dev
+7. php artisan serve
+8. aplikasi siap di operasikan
 
 👤 Fitur Admin
 - Register, Login & Logout
