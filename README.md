@@ -12,3 +12,8 @@
 - CRUD Data Admin, pegawai, cuti karyawan
 - Edit Profil
 - Hitung Durasi Cuti
+
+stack yang digunakan
+- laravel breeze
+- vite
+- tailwind
